@@ -1,0 +1,5 @@
+[["gatx-site-1" :site/url "https://www.gatx.com" 1 :add]
+ ["gatx-site-1" :site/checked-at "2026-07-18" 1 :add]
+ ["gatx-site-1" :site/http-status 200 1 :add]
+ ["gatx-site-1" :site/title "Welcome to GATX | GATX" 1 :add]
+ ["gatx-site-1" :site/description "GATX Corporation is a leading lessor of transportation assets and provides critical services to customers worldwide." 1 :add]]
